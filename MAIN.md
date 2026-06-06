@@ -8,4 +8,4 @@ Archiving the work of Nirvana.
 
 ## DISCLAIMER:
 Our archive only lists previously Uncirculated recordings,     
-if youre looking for a more in-depth archive visit: https://www.livenirvana.com/
+if you're looking for a more in-depth archive visit: https://www.livenirvana.com/
