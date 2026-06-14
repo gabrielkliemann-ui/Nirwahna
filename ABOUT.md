@@ -15,5 +15,5 @@ come directly from the people who created them.
 
  <p align="center">find us at</p>
   
-  <p align="center">[X](https://x.com/NirwahnaArchive)</p>
+  <p align="center">[X][https://x.com/NirwahnaArchive]</p>
 
