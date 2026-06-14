@@ -1,12 +1,12 @@
 # Nirwahna
-Archiving the work of Nirvana.
+Documenting the work of Nirvana.
 
 ----------
 
 
 [Concert Chronology](CHRONOLOGY.md)
 
--
+----
 
 [About Us](ABOUT.md)
 
