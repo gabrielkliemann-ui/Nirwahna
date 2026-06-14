@@ -12,3 +12,8 @@ come directly from the people who created them.
 ------------
 
 ### i'm lucky to have meet you
+
+ <p align="center">find us at</p>
+  
+  <p align="center"> [X]([URL](https://x.com/NirwahnaArchive) )</p>
+
