@@ -40,7 +40,6 @@ setlist
 
 -----
 ### set range
---
 
 
 ##### Drain You
@@ -55,15 +54,16 @@ setlist
                                       
                                 
                                                        
-CIRCULATING RECORDINGS
+under review
 -----------------------------------------------
-AMT #1
+SBD/AUD #1 (incomplete)
 | ----------------------------------------------------------------------------------|
 | Equipment:  |
-| Soundboard > Unknown |
+| Soundboard > Unknown > MP3 |
 | Lowest Generation: |
-|Length / Sound Quality: 58 min — 2.0 |
+|Length / Sound Quality:  ?? min — N/A |
 | Notes: |
-| • Posted to YouTube on November 8, 2025. |
+| • Found on Spotify in May 29, 2026. |
+| • Includes only Stain, Molly’s Lips, Drain You & Hellbound jam. |
 
 -----------------------------------------------
