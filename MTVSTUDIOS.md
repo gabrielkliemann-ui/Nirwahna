@@ -2,18 +2,18 @@ artist
 -----------------------------------------------
 Kurt Cobain (vocals, guitar)   
 Krist Novoselic (bass)               
-Dave Grohl (drums)              
+Dave Grohl (drums, vocals)              
                                
                                
 crew
 -----------------------------------------------
-John Cutcliffe (tour manager)
-Craig Montgomery (assistant sound engineer)
-Nic Close (guitar technician)
-Barrett Jones (drum technician)
-John Harris (sound engineer)
-Alex Coletti (producer)
-Milt Lage (director)
+John Cutcliffe (tour manager)   
+Craig Montgomery (assistant sound engineer)   
+Nic Close (guitar technician)   
+Barrett Jones (drum technician)   
+John Harris (sound engineer)   
+Alex Coletti (producer)   
+Milt Lage (director)   
                               
 
 
@@ -51,7 +51,7 @@ setlist
 ##### Territorial Pissings
 
                             
-                             
+#### all information by LIVENIRVANA                             
                                 
 
                                                        
