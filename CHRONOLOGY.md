@@ -1,4 +1,3 @@
-|---------------|
-|#### 1992-     |
-| MTV Sudios (Under Review) |
-|
+| 1992             | Location                                    | Details |
+| ---------------- | ------------------------------------------- | ------- |
+| JANUARY 10, 1992 | MTV Studios<br>New York, New York, United States   | Under Review     |
