@@ -19,7 +19,7 @@ Milt Lage (director)
 
  buyer                
 -----------------------------------------------
- UNKNOWN                         
+ unknown                         
 
 schedule
 ------------------------------------------------
@@ -60,7 +60,7 @@ under review
 SBD/AUD #1 (incomplete)
 | ----------------------------------------------------------------------------------|
 | Equipment:  |
-| Soundboard > Unknown > MP3 |
+| Unknown > Unknown > MP3 |
 | Lowest Generation: |
 |Length / Sound Quality:  ?? min — N/A |
 | Notes: |
