@@ -31,7 +31,7 @@ schedule
 setlist
 -
 
-### soundcheck:   ##### incomplete
+### soundcheck:   (incomplete)
 
 ##### Been A Son
 ##### On A Plain
