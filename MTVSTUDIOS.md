@@ -51,7 +51,7 @@ setlist
 ##### Territorial Pissings
 
 -------------------------------------                            
-###### all information by LIVENIRVANA                             
+###### Information above sourced from LiveNIRVANA.com                             
                                 
 
                                                        
